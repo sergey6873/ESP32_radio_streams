@@ -16,7 +16,7 @@ Umnoe radio            Bank 1 Stacja 16  http://radio.sarov.info:8010/clever-rad
 RECORD EKAT            Bank 1 Stacja 17  http://online-1.gkvr.ru:8000/record_eka_64.aac
 RADIO SHANSON          Bank 1 Stacja 18  http://chanson.hostingradio.ru:8041/chanson256.mp3
 Dorozhnoe radio - Mos  Bank 1 Stacja 19  http://dor2server.streamr.ru:8000/dor_64_no
-Noise FM - Modern El   Bank 1 Stacja 20  http://noisefm.ru:8000/play_256
+NOW JAZZ               Bank 1 Stacja 20  http://158.69.74.203/;
 RussianFM.de | 24/7h   Bank 1 Stacja 21  http://radio.russianfm.de:8000
 Evropa Plyus - Mosk    Bank 1 Stacja 22  http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 New Life Radio - Radi  Bank 1 Stacja 23  http://ic2.christiannetcast.com/nlradio
@@ -98,6 +98,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
