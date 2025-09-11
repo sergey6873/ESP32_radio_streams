@@ -34,7 +34,7 @@ Russkoe Radio - Novos  Bank 1 Stacja 34  http://gmedia54.fvds.ru:8000/rusradio_n
 Krasnoyarsk FM         Bank 1 Stacja 35  http://online.krasnoyarskfm.ru:8000/krasnoyarskfm_mp3
 Radio Caprice Dream    Bank 1 Stacja 36  http://79.120.39.202:9029
 Love City FM           Bank 1 Stacja 37  http://radio.lovecity3d.com:8130
-Tatar radiosy          Bank 1 Stacja 38  http://stream.tatarradio.ru:2068/stream/1/
+FREE MUZIC             Bank 1 Stacja 38  http://stream.freemusicradio.nl:8100/stream.oga
 Radio Monte Carlo 2    Bank 1 Stacja 39  http://icecast.unitedradio.it/RMC.mp3
 Detskoe Radio          Bank 1 Stacja 40  http://staroeradio.ru:8000/detskoe128
 Russkoe Radio - Volgo  Bank 1 Stacja 41  http://listen.vdfm.ru:8000/rusradio
@@ -98,6 +98,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
