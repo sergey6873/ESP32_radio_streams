@@ -17,7 +17,7 @@ RECORD EKAT            Bank 1 Stacja 17  http://online-1.gkvr.ru:8000/record_eka
 RADIO SHANSON          Bank 1 Stacja 18  http://chanson.hostingradio.ru:8041/chanson256.mp3
 Dorozhnoe radio - Mos  Bank 1 Stacja 19  http://dor2server.streamr.ru:8000/dor_64_no
 NOW JAZZ               Bank 1 Stacja 20  http://158.69.74.203/;
-PARADISE               Bank 1 Stacja 21  
+ROXI                   Bank 1 Stacja 21  https://s2.audiostream.hu/roxy_FLAC
 Evropa Plyus - Mosk    Bank 1 Stacja 22  http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 New Life Radio - Radi  Bank 1 Stacja 23  http://ic2.christiannetcast.com/nlradio
 Nashe Radio - Sankt    Bank 1 Stacja 24  http://nashe1.hostingradio.ru/nashespb128.mp3
@@ -98,6 +98,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
