@@ -11,8 +11,9 @@ Hit FM - Moskva        Bank 1 Stacja 10  http://hitfm.hostingradio.ru/hitfm96.aa
 Radio dlya dvoih - S   Bank 1 Stacja 11  http://icecast-radiofortwo.cdnvideo.ru/radiofortwo
 EVROPA PLUS EKAT       Bank 1 Stacja 12  http://online-1.gkvr.ru:8000/europa_eka_64.aac
 MK                     Bank 1 Stacja 13  http://online-1.gkvr.ru:8000/mc_eka_64.aac
+VISITSKIY              Bank 1 Staxja 14  https://srv01.gpmradio.ru/stream/pro/aac/64/58?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI3ZWEwMjlhNzg3ZDhmMzcwMDBhNDhjMjAyYzZmYzMzMCIsIklQIjoiMTkzLjE2OC4xNzYuNDciLCJVQSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDAuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTQwLjAuMC4wIiwiUmVmIjoiaHR0cHM6Ly8xMDEucnUvIiwidWlkX2NoYW5uZWwiOiI1OCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJ0eXBlRGV2aWNlIjoiUEMiLCJCcm93c2VyIjoiQ2hyb21lIiwiQnJvd3NlclZlcnNpb24iOiIxNDAuMC4wLjAiLCJTeXN0ZW0iOiJXaW5kb3dzIDEwIiwiZXhwIjoxNzU3OTI1Nzk2fQ.hachRyxgJRPcLHVXRLj9eEbvqhKmiMxosEdfQmsP1Ak
 JAZZ                   Bank 1 Stacja 15  http://jazz-wr14.ice.infomaniak.ch:80/jazz-wr14-128.mp3
-CITI RADIO JAZZ FLAC   Bank 1 Stacja 16  http://cityradio.ddns.net:8000/cityradio48flac 
+VISOTSKI               Bank 1 Stacja 16  https://hls-01-rusradio.hostingradio.ru/vysockij/96/l0_68c725b75e083855ca0b61d9.ts
 RECORD EKAT            Bank 1 Stacja 17  http://online-1.gkvr.ru:8000/record_eka_64.aac
 RADIO SHANSON          Bank 1 Stacja 18  http://chanson.hostingradio.ru:8041/chanson256.mp3
 Dorozhnoe radio - Mos  Bank 1 Stacja 19  http://dor2server.streamr.ru:8000/dor_64_no
@@ -98,6 +99,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
