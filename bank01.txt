@@ -49,7 +49,7 @@ Evropa Plyus - Light   Bank 1 Stacja 48  http://emg02.hostingradio.ru/ep-light12
 Pilot FM - Dance       Bank 1 Stacja 49  http://188.254.50.254:8000/pilot_dance_mp3
 RadioMv.com | Russian  Bank 1 Stacja 50  http://ru-low.radiomv.co:2202/stream/1/
 SING SING              Bank 1 Stacja 51  http://stream.sing-sing-bis.org:8000/singsingaacplus64
-FREQUENCE FLAG         Bank 1 Stacja 52  http://hd.stream.frequence3.net/frequence3.flac
+KAMEDI KLAB            Bank 1 Stacja 52  https://srv01.gpmradio.ru/stream/pro/aac/64/446?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI3ZWEwMjlhNzg3ZDhmMzcwMDBhNDhjMjAyYzZmYzMzMCIsIklQIjoiMTkzLjE2OC4xNzYuNDciLCJVQSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDAuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTQwLjAuMC4wIiwiUmVmIjoiaHR0cHM6Ly8xMDEucnUvIiwidWlkX2NoYW5uZWwiOiI0NDYiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkNocm9tZSIsIkJyb3dzZXJWZXJzaW9uIjoiMTQwLjAuMC4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTc1NzkzMDY4OH0.GVqdDaRqJRSbYLsW9Qw5KIC5byoeEwUuj1ZSE-ntEhY
 Radio Vanya - Ne lihi  Bank 1 Stacja 53  http://icecast-radiovanya.cdnvideo.ru:8000/rv_90
 Eldoradio              Bank 1 Stacja 54  http://emgspb.hostingradio.ru/eldoradio64.mp3
 Staroe Radio - Muzyka  Bank 1 Stacja 55  http://staroeradio.ru:8000/r_music128
@@ -99,6 +99,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
