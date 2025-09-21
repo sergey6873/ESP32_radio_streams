@@ -39,7 +39,7 @@ DANUBIUS               Bank 1 Stacja 38  https://stream.danubiusradio.hu/danubiu
 ORGANLIVE              Bank 1 Stacja 39  https://play.organlive.com:7010/320
 Detskoe Radio          Bank 1 Stacja 40  http://staroeradio.ru:8000/detskoe128
 Russkoe Radio - Volgo  Bank 1 Stacja 41  http://listen.vdfm.ru:8000/rusradio
-Radio Grad Petrov      Bank 1 Stacja 42  http://www.grad-petrov.ru:8093/mp3-40
+DISCO KLUB §           Bank 1 Stacja 42  https://cmr-hosting.com/8050/stream
 ROCK-FM                Bank 1 Stacja 43  http://nashe1.hostingradio.ru/rock-64.mp3
 Russkoe Radio - Volg   Bank 1 Stacja 44  http://vdfm.ru:8000/rusradio
 Eho Moskvy - Ekaterin  Bank 1 Stacja 45  http://online.volgogradfm.ru:8000/echoekb_aacplus
@@ -99,6 +99,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
