@@ -5,7 +5,6 @@ VESTI FM               Bank 1 Stacja 4   https://icecast-vgtrk.cdnvideo.ru:443/v
 MAYAK                  Bank 1 Stacja 5   http://icecast.vgtrk.cdnvideo.ru:80/mayakfm_mp3_192kbps
 URALSOUND              Bank 1 Stacja 6   http://62.16.40.250:8000/uralsoundfm
 Radio ROSSII           Bank 1 Stacja 7   http://icecast.vgtrk.cdnvideo.ru:80/rrzonam_mp3_192kbps
-Nostalgiya FM          Bank 1 Stacja 8   http://93.189.147.117:8000/nostalgiafm.mp3
 MILICEYISKAYA VOLNA    Bank 1 Stacja 9   http://radio.mvd.ru:8000/mv128.mp3
 Hit FM - Moskva        Bank 1 Stacja 10  http://hitfm.hostingradio.ru/hitfm96.aacp
 Radio dlya dvoih - S   Bank 1 Stacja 11  http://icecast-radiofortwo.cdnvideo.ru/radiofortwo
@@ -17,15 +16,16 @@ MARUSIA FM             Bank 1 Stacja 16  https://msk8.radio-holding.ru/marusya_d
 RECORD EKAT            Bank 1 Stacja 17  http://online-1.gkvr.ru:8000/record_eka_64.aac
 RADIO SHANSON          Bank 1 Stacja 18  http://chanson.hostingradio.ru:8041/chanson256.mp3
 Dorozhnoe radio - Mos  Bank 1 Stacja 19  http://dor2server.streamr.ru:8000/dor_64_no
-NOW JAZZ               Bank 1 Stacja 20  http://158.69.74.203/;
+NOW JAZZ               Bank 1 Stacja 20  http://158.69.74.203/
 ROXI                   Bank 1 Stacja 21  https://s2.audiostream.hu/roxy_FLAC
 Evropa Plyus - Mosk    Bank 1 Stacja 22  http://europaplus.hostingradio.ru:8014/europaplus320.mp3
-New Life Radio - Radi  Bank 1 Stacja 23  http://ic2.christiannetcast.com/nlradio
+JAZZ 2 RADIO           Bank 1 Stacja 23  http://jazz-radio-fusion.ice.infomaniak.ch:80/jazz-radio-fusion.mp3
 Nashe Radio - Sankt    Bank 1 Stacja 24  http://nashe1.hostingradio.ru/nashespb128.mp3
 Russkoe Radio - Mosk   Bank 1 Stacja 25  http://rusradio.hostingradio.ru/rusradio128.mp3
 Radio Sputnik - Ekat   Bank 1 Stacja 26  http://online.volgogradfm.ru:8000/sputnik107_aacplus
 Radio Sibir            Bank 1 Stacja 27  http://stream.radiosibir.ru:8090/HQ
-Zaycev FM - Raznoe     Bank 1 Stacja 28  http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
+GOVORIT MOSKVA         Bank 1 Stacja 8   http://video.govoritmoskva.ru:8880/rufm.mp3
+KAMEDI RADIO EKAT      Bank 1 Stacja 28  http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_9
 Veda-radio             Bank 1 Stacja 29  http://listen.vedaradio.fm:8000/high
 Radio Yuniton          Bank 1 Stacja 30  http://online.uniton.ru:8300/RadioUniton128?
 Radio Romantika Moskv  Bank 1 Stacja 31  https://pub0302.101.ru:8443/stream/air/aac/64/101
@@ -65,8 +65,8 @@ AnimeRadio.SU          Bank 1 Stacja 64  http://animeradio.su:8000
 Evropa Plyus - New     Bank 1 Stacja 65  http://emg02.hostingradio.ru/ep-new128.mp3
 DNB FM                 Bank 1 Stacja 66  http://go.dnbfm.ru:8000/play
 Radio PREMIUM (Premi   Bank 1 Stacja 67  http://89.175.27.162:9000/aacp64
-Radio Disney (Disney   Bank 1 Stacja 68  http://disney2.streamr.ru:8060/disney
-Marusya FM             Bank 1 Stacja 69  http://radio-holding.ru:9000/marusya_aac_64
+KAMEDI N.TAGGIL        Bank 1 Stacja 68  http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_137
+DISKO CLUB 3           Bank 1 Stacja 69  https://cmr-hosting.com/8050/stream
 Radio Vesna            Bank 1 Stacja 70  http://91.203.176.214:8000/vesnafm
 Golos Mira - MXO       Bank 1 Stacja 71  http://184.75.241.24:8068
 Radio Metro            Bank 1 Stacja 72  http://stream.radiometro.ru:8230/
@@ -99,6 +99,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
