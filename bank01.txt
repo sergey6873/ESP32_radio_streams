@@ -74,7 +74,7 @@ Dorozhnoe radio - Do   Bank 1 Stacja 73  http://dor2server.streamr.ru:8000/dorog
 Radio Vanya - Retro    Bank 1 Stacja 74  http://icecast-radiovanya.cdnvideo.ru:8000/rv_retro
 Graal Radio Space      Bank 1 Stacja 75  http://graalradio.com:8123/space
 Radio Kamchatka Dance  Bank 1 Stacja 76  http://radio.kamchatkalive.ru:8100/dance
-Pravoslavnoe radio «   Bank 1 Stacja 77  http://www.orthodox-ural.ru:8000/stream.mp3
+RADIO KAMCHATKA LIVE   Bank 1 Stacja 77  http://radio.kamchatkalive.ru:8100/chillout
 Radio Ultra            Bank 1 Stacja 78  http://nashe1.hostingradio.ru/ultra-64.mp3
 Komsomolskaya pravd    Bank 1 Stacja 79  http://kpradio.hostingradio.ru:8000/64
 EuropaRussia           Bank 1 Stacja 80  http://134.0.115.169:8000/stream/1/
@@ -99,6 +99,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
