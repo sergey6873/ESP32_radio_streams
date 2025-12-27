@@ -96,4 +96,4 @@ PARTY VIBE-ROCK          Bank 4 Stacja 95  http://94.130.242.5:8032/stream
 PARTY VIBE-TECHNO        Bank 4 Stacja 96  http://94.130.242.5:8046/stream
 Mirage Italo Dance       Bank 4 Stacja 97  https://ssl-1.radiohost.pl:9569
 Mirage Prywatka          Bank 4 Stacja 98  https://ssl-1.radiohost.pl:7214
-Mirage Space             Bank 4 Stacja 99  https://ssl-1.radiohost.pl:9563
+RADIO ITALO 4 YOU        Bank 4 Stacja 99  http://s0.radiohost.pl:8018/stream
