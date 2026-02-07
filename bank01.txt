@@ -61,7 +61,7 @@ Radio Metro Sankt-Pe   Bank 1 Stacja 60  http://stream.radiometro.ru:8230
 Radio  Intervolna      Bank 1 Stacja 61  http://online.intervolna.ru:8001/radio128
 Melodic Death Metal    Bank 1 Stacja 62  http://79.120.77.11:9091
 Power Hit Radio Murm   Bank 1 Stacja 63  http://www.radio.dline-media.com/powerhit128
-AnimeRadio.SU          Bank 1 Stacja 64  http://animeradio.su:8000
+GOLDEN-50-60           Bank 1 Stacja 64  http://listen.radionomy.com:80/golden-50-70s-hits
 Evropa Plyus - New     Bank 1 Stacja 65  http://emg02.hostingradio.ru/ep-new128.mp3
 DNB FM                 Bank 1 Stacja 66  http://go.dnbfm.ru:8000/play
 Radio PREMIUM (Premi   Bank 1 Stacja 67  http://89.175.27.162:9000/aacp64
@@ -99,6 +99,7 @@ Nashe Radio - NAShE    Bank 1 Stacja 98  http://nashe1.hostingradio.ru/nashe20-1
 Retro FM - Moskva      Bank 1 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 1 Stacja 100 http://79.120.39.202:9031
+
 
 
 
