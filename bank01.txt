@@ -54,7 +54,7 @@ Radio Vanya - Ne lihi  Bank 1 Stacja 53  http://icecast-radiovanya.cdnvideo.ru:8
 Eldoradio              Bank 1 Stacja 54  http://emgspb.hostingradio.ru/eldoradio64.mp3
 Staroe Radio - Muzyka  Bank 1 Stacja 55  http://staroeradio.ru:8000/r_music128
 Serebryanyy dozhd - M  Bank 1 Stacja 56  http://213.59.4.27:8000/stream48.mp3
-Kunel radio - Nabere   Bank 1 Stacja 57  http://live.kunelradio.ru:8000/128.mp3
+eNJOY RADOI V ROSSII   Bank 1 Stacja 57  http://live.njoyradio.ru
 Rock Arsenal, Ekateri  Bank 1 Stacja 58  http://online.volgogradfm.ru:8000/rockarsenal
 Radiostanciya «Radio   Bank 1 Stacja 59  http://play.radioradio.ru:8000/mp3
 Radio Metro Sankt-Pe   Bank 1 Stacja 60  http://stream.radiometro.ru:8230
