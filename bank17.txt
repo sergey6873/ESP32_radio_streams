@@ -39,48 +39,8 @@ SUN                       Bank 1 Stacja 38  http://diffusion.lafrap.fr:8000/sun.
 The Cheese                Bank 1 Stacja 39  https://station.thecheese.co.nz/listen/the_cheese/flac
 URBN Radio                Bank 1 Stacja 40  http://live7.avf.ch:8000/urbn_main
 Violent Forces Radio      Bank 1 Stacja 41  https://tuneintoradio1.com:8000/stream.flac
-
 Violent Forces Radio      Bank 1 Stacja 42  https://tuneintoradio1.com:8010/stream.flac
 Yes FM                    Bank 1 Stacja 43  http://live7.avf.ch:8000/yesfm_main
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 AIDA Radio                Bank 1 Stacja 44  https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 BluesWave Radio           Bank 1 Stacja 45  http://blueswave.radio:8050/FlacBlues
 Classics Radio            Bank 1 Stacja 46  http://vriezenet.nl:11051/flac
@@ -91,7 +51,7 @@ Pure Lounge Radio         Bank 1 Stacja 50  https://mscp4.live-streams.nl:8142/l
 Radio Bias                Bank 1 Stacja 51  https://admin.biasradio.com/radio/8000/flac
 Radio Calico              Bank 1 Stacja 52  http://radio3.radio-calico.com:8080/calico
 Radio Calico (Roon stream)Bank 1 Stacja 53  http://roon.radio-calico.com:8000/roon
-Radio Radar – House       Bank 1 Stacja 54  https://radioradar.online/listen/r_house/r_house.ogg
+Radio Radar â€“ House       Bank 1 Stacja 54  https://radioradar.online/listen/r_house/r_house.ogg
 Radio X                   Bank 1 Stacja 55  https://mp3.radiox.ch/standard.ogg
 Rlocale Radio             Bank 1 Stacja 56  https://rlocale.org/listen/rlocale/rlocale-flac.ogg
 shadowfr69 Radio          Bank 1 Stacja 57  https://radio.shadowfr69.eu/lossless
