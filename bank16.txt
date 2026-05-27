@@ -83,3 +83,17 @@ Czech Radio CRo Jazz     Bank 16 Stacja 82  http://amp.cesnet.cz:8000/cro-jazz.f
 Czech Radio CRo RadioWaveBank 16 Stacja 83  http://amp.cesnet.cz:8000/cro-radio-wave.flac
 Czech Radio CRo Vltava   Bank 16 Stacja 84  http://amp.cesnet.cz:8000/cro3.flac
 RadioSEGA                Bank 16 Stacja 85  https://icecast.radiosega.net/rs-flac.ogg
+AURAL Radio              Bank 16 Stacja 86  http://radio.auralradiokerala.com:1320/stream
+Bailrigg 95.3FM          Bank 16 Stacja 87  https://bfm-live.lancs.ac.uk/listen/bfm/flac
+Big Bang Radio           Bank 16 Stacja 88  https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+Dance Wave               Bank 16 Stacja 89  http://dancewave.online/dance.flac.ogg
+ForEver La Radio-Arcacho Bank 16 Stacja 90  http://stream.sweetfm.fr:8000/flac-forever-arc
+ForEver La Radio-BordeauxBank 16 Stacja 91  http://stream.sweetfm.fr:8000/flac-forever-bdx
+Greek Hits               Bank 16 Stacja 92  https://radio.newageradio.gr:8040/autodj.flac
+Haarlem 105              Bank 16 Stacja 93  http://studio.haarlem105.nl:8000/haarlem105DAB.flac?_res_tag_=audio
+Hi On Line Radio         Bank 16 Stacja 94  http://mscp2.live-streams.nl:8100/flac.flac
+SEKO Radio               Bank 16 Stacja 95  https://isekoi-radio.com/listen/isekoi/radio.flac
+SEKO Ambient             Bank 16 Stacja 96  https://isekoi-radio.com/listen/ambient/ambientradio.flac
+SEKO Chill Zone          Bank 16 Stacja 97  https://isekoi-radio.com/listen/chill/radio.flac
+Kiss Collector           Bank 16 Stacja 98  http://live7.avf.ch:8000/kisscollector_main
+Lux Radio                Bank 16 Stacja 99  https://live7.avf.ch/lux_main
