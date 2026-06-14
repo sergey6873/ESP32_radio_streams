@@ -90,7 +90,7 @@ Radiola 103 FM Sarat   Bank 1 Stacja 89  http://online1.gkvr.ru:8000/radiola_srt
 Sputnik - Rossiya Seg  Bank 1 Stacja 90  http://audio1.video.ria.ru/voicerus
 Radio Shtorm           Bank 1 Stacja 91  http://live.shtorm.fm:8000/mp3_trend
 Radio Kamchatka Live   Bank 1 Stacja 92  http://radio.kamchatkalive.ru:8100/chillout
-Shanson USA (Shanson   Bank 1 Stacja 93  http://usa7.fastcast4u.com:5949/stream/1/
+PI FM                  Bank 1 Stacja 93  http://cdn.pifm.ru/mp3
 Radio McM              Bank 1 Stacja 94  http://91.227.68.150:10000/hit128
 Radio Caprice - Pia    Bank 1 Stacja 95  http://79.120.77.11:9009
 Business FM            Bank 1 Stacja 96  http://bfmstream.bfm.ru:8004/fm32
