@@ -82,7 +82,7 @@ Radio Jazz             Bank 1 Stacja 81  http://nashe1.hostingradio.ru/jazz-64.m
 Radio Maksimum - Mos   Bank 1 Stacja 82  http://maximum.hostingradio.ru/maximum96.aacp
 USSR                   Bank 1 Stacja 83  http://setmedia.ru:8000/high5
 Radio 54               Bank 1 Stacja 84  http://91.202.68.50:8000/stream/1/
-Radio GARDARIKA        Bank 1 Stacja 85  http://195.182.132.18:8260
+Radio RUSS REK 2       Bank 1 Stacja 85  https://securestreams5.autopo.st:1844/stream
 Radio 42fm             Bank 1 Stacja 86  http://listen.42fm.ru:8000/stealkill
 Radio Russkaya Rekl    Bank 1 Stacja 87  http://s1.premium-streaming.com:9002
 Pilot FM Dance         Bank 1 Stacja 88  http://188.254.50.254:8000/pilot_dance
