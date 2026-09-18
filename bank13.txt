@@ -5,7 +5,7 @@ B4B RADIO DISCO FUNK     Bank 13 Stacja 4   https://eu10.fastcast4u.com:8120/str
 Back To The 80 Radio     Bank 13 Stacja 5   http://149.56.185.82:8135/
 BDJ Eurodance 90s        Bank 13 Stacja 6   https://stream-90s.bdjradio.com/
 Bdjeurodance90s          Bank 13 Stacja 7   http://bdjeurodance90s.stream.laut.fm/bdjeurodance90s
-BeirutNights.com Radio   Bank 13 Stacja 8   http://68.68.109.106:6626
+BeirutNights.com Radio   Bank 13 Stacja 8   https://byblosnights.com:8443/relay?cb=1789749674485
 Box UK Radio danceradio  Bank 13 Stacja 9   http://51.75.170.46:6191/stream/1/
 C-Dance RETRO            Bank 13 Stacja 10  http://198.100.145.187:18304/stream/1/
 Club93                   Bank 13 Stacja 11  http://club93.stream.laut.fm/club93
